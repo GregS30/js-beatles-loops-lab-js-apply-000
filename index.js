@@ -25,4 +25,5 @@ function iLoveTheBeatles(n) {
   do {
     
   } 
+  while n < 15
 }
